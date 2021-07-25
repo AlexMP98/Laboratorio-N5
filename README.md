@@ -21,8 +21,25 @@ _Objetivos Específicos_
 ![Mteorico1]( https://github.com/AlexMP98/Laboratorio-N5/blob/main/Imagenes/Mteorico%20L5.PNG)
 ![Mteorico2]( https://github.com/AlexMP98/Laboratorio-N5/blob/main/Imagenes/Mteorico%20L5%202.PNG)
 
-**3. EXPLICACIÓN DEL PROCEDIMIENTO**
+**3. EXPLICACIÓN DEL PROCEDIMIENTO*
 
+![Diagrama](https://github.com/AlexMP98/Laboratorio-N5/blob/main/Imagenes/Diagrama.png)
+
+![Paso 1](https://github.com/AlexMP98/Laboratorio-N5/blob/main/Imagenes/Paso%201.png)
+
+![Paso 2](https://github.com/AlexMP98/Laboratorio-N5/blob/main/Imagenes/Paso%202.png)
+
+![Paso 3](https://github.com/AlexMP98/Laboratorio-N5/blob/main/Imagenes/Paso%203.png)
+
+![Paso 4](https://github.com/AlexMP98/Laboratorio-N5/blob/main/Imagenes/Paso%204.png)
+
+![Paso 5](https://github.com/AlexMP98/Laboratorio-N5/blob/main/Imagenes/Paso%205.png)
+
+![Paso 6](https://github.com/AlexMP98/Laboratorio-N5/blob/main/Imagenes/Paso%206.png)
+
+![Paso 7](https://github.com/AlexMP98/Laboratorio-N5/blob/main/Imagenes/Paso%207.png)
+
+![Paso 8](https://github.com/AlexMP98/Laboratorio-N5/blob/main/Imagenes/Paso%208.png)
 
 **4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR**          
 
