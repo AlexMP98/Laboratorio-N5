@@ -55,6 +55,10 @@ Tabla 5.2 Comprobación del Teorema de Thévenin
 
 **6. CONCLUSIONES**
 
+-Se puede visualizar tanto experimental como analiticamente como se emplea el Teorema de Thevenin, el cual consiste en que el valor de las resistencias puede ser reemplazada o sustituida por otra fuente de tensión , es decir, sirve para convertir un circuito complejo, que tenga dos terminales, en uno muy sencillo que contenga sólo una fuente de tensión o voltaje (VTh) en serie con una resistencia (RTh).
+
+-El teorema de Thevenin se concluye con la ley de ohm para calcular la corriente que circula por una rama.
+
 **7. BIBLIOGRAFÍA**
 
 H.Robbins, A., & Wilhem C. Miller. (2008). Análisis de circuitos: teoría y práctica, Cuarta Edición. Ciudad de México: CENGAGE Learning.
