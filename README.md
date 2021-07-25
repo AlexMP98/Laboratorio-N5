@@ -6,9 +6,13 @@
 
 _Objetivo General_
 
+-Establecer el Teorema de Thevenin y determinar el circuito equivalente en el problema planteado y en cualquier otra red resistiva a traves de un analisis experimental y analitico.
 
 _Objetivos Específicos_
 
+-Aprender sobre la reduccion de todo tipo de circuitos complejos a un arreglo de una resistencia y una fuente de voltaje.
+-Comparar los valores calculados y medidos así como los medidos en el circuito original y el circuito equivalente de Thevenin. 
+-Verificar que se cumple el Teorema de Thevenin.
 
 **2. MARCO TEÓRICO**
 
