@@ -12,6 +12,8 @@ _Objetivos Específicos_
 
 **2. MARCO TEÓRICO**
 
+![Mteorico1]( https://github.com/AlexMP98/Laboratorio-N5/blob/main/Imagenes/Mteorico%20L5.PNG)
+![Mteorico2]( https://github.com/AlexMP98/Laboratorio-N5/blob/main/Imagenes/Mteorico%20L5%202.PNG)
 
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
