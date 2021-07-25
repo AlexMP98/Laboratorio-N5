@@ -57,3 +57,7 @@ Tabla 5.2 Comprobación del Teorema de Thévenin
 
 **7. BIBLIOGRAFÍA**
 
+H.Robbins, A., & Wilhem C. Miller. (2008). Análisis de circuitos: teoría y práctica, Cuarta Edición. Ciudad de México: CENGAGE Learning.
+
+
+
