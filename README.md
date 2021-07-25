@@ -67,7 +67,8 @@ Tabla 5.2 Comprobación del Teorema de Thévenin
 ![error]( https://github.com/AlexMP98/Laboratorio-N5/blob/main/Imagenes/error.png)        
 
 
-**5. VIDEO**
+**5. VIDEO**     
+Link del video: https://youtu.be/pahiKXwpqdQ    
 
 
 **6. CONCLUSIONES**
