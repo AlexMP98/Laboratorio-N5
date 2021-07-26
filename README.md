@@ -75,7 +75,7 @@ Link del video: https://youtu.be/pahiKXwpqdQ
 
 -Se puede visualizar tanto experimental como analiticamente como se emplea el Teorema de Thevenin, el cual consiste en que el valor de las resistencias puede ser reemplazada o sustituida por otra fuente de tensión , es decir, sirve para convertir un circuito complejo, que tenga dos terminales, en uno muy sencillo que contenga sólo una fuente de tensión o voltaje (VTh) en serie con una resistencia (RTh).
 
--El teorema de Thevenin se concluye con la ley de ohm para calcular la corriente que circula por una rama.
+-Se concluye que se cumple el teorema de Thévenin  ya que tanto en el circuito original como en el circuito equivalente, se tienen los mimos voltajes e intensidades en R5, demostrando que el circuito equivalente es el mismo que el circuito original solo que más simple.
 
 **7. BIBLIOGRAFÍA**
 
